@@ -35,8 +35,15 @@ https://emphasized-dibble-f24.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 
+### 데이터베이스로 MongoDB를 선택한 이유
+데이터베이스 후보로 Firebase, Supabase, MongoDB가 있었습니다.
+그 중 MongoDB를 선택한 이유는 다음과 같습니다.
+
+1. 자유로운 데이터 구조를 가질 수 있기 때문입니다. 프로젝트를 진행하면서 데이터 구조가 언제든지 변할 수 있다고 판단하여 NoSQL 데이터베이스를 택했습니다. 
+2. 지금까지 NoSQL 데이터베이스를 사용해 본 적이 없어서 도전하고 싶었습니다.
+3. firebase도 NoSQL 기반이지만 속도가 느리다는 문제가 있기 때문에 firebase 대신 mongoDB를 택했습니다. 
 ## 플랜 빙고란?
-“이루고 싶은 목표를 이뤄가며 빙고 해봐요.”
+**“이루고 싶은 목표를 이뤄가며 빙고 해봐요.”**
 
 플랜 빙고는 유저가 이루고 싶은 목표로 아홉 칸을 채우고 목표를 이뤄가면서 빙고할 수 있도록 만들어진 서비스입니다. 일종의 ‘빙고’가 접목된 투두리스트입니다.
 
