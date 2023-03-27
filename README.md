@@ -35,7 +35,12 @@ https://emphasized-dibble-f24.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 
-### 데이터베이스로 MongoDB를 선택한 이유
+### 기술 스택 선택 이유
+
+#### Next.js를 선택한 이유
+ 라우팅을 간소화할 수 있기 때문에 선택했습니다. 여기서 라우팅이란 사용자에게 이 애플리케이션이 여러 페이지가 있는 것처럼 착각하게 하는 것입니다. Next.js는 파일 기반 라우팅을 할 수 있습니다. Next.js 애플리케이션에는 특수 페이지 폴더가 있어서 페이지를 다루는데 용이합니다.
+
+#### MongoDB를 선택한 이유
 데이터베이스 후보로 Firebase, Supabase, MongoDB가 있었습니다.
 그 중 MongoDB를 선택한 이유는 다음과 같습니다.
 
