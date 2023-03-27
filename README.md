@@ -36,6 +36,11 @@ https://emphasized-dibble-f24.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 
 ## 플랜 빙고란?
+“이루고 싶은 목표를 이뤄가며 빙고 해봐요.”
+
+플랜 빙고는 유저가 이루고 싶은 목표로 아홉 칸을 채우고 목표를 이뤄가면서 빙고할 수 있도록 만들어진 서비스입니다. 일종의 ‘빙고’가 접목된 투두리스트입니다.
+
+플랜 빙고는 Neubrutalism과 뉴트로풍으로 디자인되어 유저에게 각인될 수 있도록 만들어졌습니다.
 
 ## 제작 계기
 **“신입 프론트엔드 개발자로 취업하려면 어느 정도의 실력을 갖춰야 할까요?”**
