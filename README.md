@@ -39,15 +39,42 @@ https://emphasized-dibble-f24.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682
 
 ### 제작 계기
 
-### 주요 기능 소개
+### 주요 기능 소개(ver.0.1.5 기준)
+- 회원가입 & 튜토리얼
 
-- 회원가입 & 로그인
-- 튜토리얼
+  ![1_signUp_and_Tutorial_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821150-5bcc698d-d57e-4260-beea-c569cb7af900.gif)
+
 - 새로운 빙고판 생성
+
+  ![2_CreateNewBoardAndShare_-_Clipchamp로_제작_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821275-28328aaa-41fb-4377-a268-e3f8df1cddeb.gif)
+
+- 빙고판을 생성하지 않은 경우
+
+  ![6_whenUserDoesn_tCreateBoard_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821904-5ddff02f-03a8-4bd7-b9b7-2320918767d6.gif)
+
 - 빙고판 내용 수정
-- 빙고 체크
-- 체크 완료 후 각 상황에 따라 다른 이펙트
-- 공유 링크를 통해 들어왔을 때
+
+  ![3_EditBoard_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821300-69be5c3c-cb9e-4b1f-bf6f-814e60d51927.gif)
+
+- 체크 완료 및 체크 후 각 상황에 따라 다른 이펙트
+  - 일반적인 빙고인 경우
+  
+  ![4_CheckBoard_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821309-51661dff-9fe0-47f7-b19e-e424916e0fd1.gif)
+
+  - 모든 칸이 체크된 경우
+  
+  ![5_8bingo_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821401-ef5f2398-9697-4e1b-8005-f3c6b1aba267.gif)
+
+
+- 반응형 웹으로 만들어서 모바일 환경에서도 이용할 수 있습니다.
+
+  ![7_responsive_AdobeExpress](https://user-images.githubusercontent.com/107087958/227822281-9388d7bc-956c-415c-a2d9-87a7f3ceab7a.gif)
+
+
+- 이 외에도 다음과 같은 기능이 있습니다. 
+  - 빙고판 공유
+  - 로그인 등.
+
 
 ### 개발 애로사항
 
