@@ -16,7 +16,7 @@
 > 업데이트 노트:
 https://emphasized-dibble-f24.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682ff117c4c84f699b6445c0f889f446
 
-### 개발 정보 
+## 개발 정보 
 - 제작 기간: 2023.01.19 ~ 2023.03.12
 - 기술 스택
   - 언어: 
@@ -35,11 +35,34 @@ https://emphasized-dibble-f24.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682
 ![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=flat-square&logo=Notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 
-### 플랜 빙고란?
+## 플랜 빙고란?
 
-### 제작 계기
+## 제작 계기
+**“신입 프론트엔드 개발자로 취업하려면 어느 정도의 실력을 갖춰야 할까요?”**
 
-### 주요 기능 소개(ver.0.1.5 기준)
+위의 질문은 제가 한 프론트엔드 개발자님께 했던 질문입니다.
+
+
+그분은 다음과 같이 답해줬습니다.
+1. 리액트를 써서 투두리스트를 만들 수 있을 정도면 회사에 지원할 수 있다.
+2. 회사에서는 배포 및 서비스 운영 경험이 있는 신입 개발자를 원한다.
+
+
+이 말을 듣고 다음과 같이 생각했습니다. 
+
+
+‘이제 리액트를 공부해서 투두리스트를 만들어야겠다.’ 
+
+‘그러는 김에 배포도 해봐야지.’
+
+***'그런데 평범한 투두리스트를 만들면 과연 사람들이 쓸까?’***
+
+
+그래서 저는 투두리스트와 ‘빙고’를 합쳐서 특이한 형태의 투두리스트를 만들게 됩니다.  
+
+그것이 바로 **플랜 빙고**입니다.
+
+## 주요 기능 소개(ver.0.1.5 기준)
 - 회원가입 & 튜토리얼
 
   ![1_signUp_and_Tutorial_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821150-5bcc698d-d57e-4260-beea-c569cb7af900.gif)
@@ -76,6 +99,6 @@ https://emphasized-dibble-f24.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682
   - 로그인 등.
 
 
-### 개발 애로사항
+## 개발 애로사항
 
 
