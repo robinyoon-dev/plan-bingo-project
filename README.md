@@ -79,22 +79,24 @@ https://emphasized-dibble-f24.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682
 
 그것이 바로 **플랜 빙고**입니다.
 
-## 주요 기능 소개(ver.0.1.5 기준)
-- 회원가입 & 튜토리얼
+## 주요 기능 소개(ver.0.1.5 위주)
+- 회원가입 & 튜토리얼 (ver.0.1.14)
+  
+  ![1_signup_tutorial](https://github.com/robinyoon-dev/plan-bingo-project/assets/107087958/9043cc39-de26-4b5f-852f-0b27b8625cb3)
 
-  ![1_signUp_and_Tutorial_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821150-5bcc698d-d57e-4260-beea-c569cb7af900.gif)
 
-- 새로운 빙고판 생성
+- 새로운 빙고판 생성 (ver.0.1.14)
+  
+  ![2_create_new_board_-_Clipchamp로_제작_AdobeExpress](https://github.com/robinyoon-dev/plan-bingo-project/assets/107087958/3d554446-0d73-4898-9d99-2aaa90ae8396)
 
-  ![2_CreateNewBoardAndShare_-_Clipchamp로_제작_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821275-28328aaa-41fb-4377-a268-e3f8df1cddeb.gif)
 
 - 빙고판을 생성하지 않은 경우
-
+  
   ![6_whenUserDoesn_tCreateBoard_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821904-5ddff02f-03a8-4bd7-b9b7-2320918767d6.gif)
 
-- 빙고판 내용 수정
+- 빙고판 내용 수정 (ver.0.1.14)
 
-  ![3_EditBoard_AdobeExpress](https://user-images.githubusercontent.com/107087958/227821300-69be5c3c-cb9e-4b1f-bf6f-814e60d51927.gif)
+  ![4_edit_board](https://github.com/robinyoon-dev/plan-bingo-project/assets/107087958/c91e9432-1a35-41de-b3e8-3e65553dbf5f)
 
 - 체크 완료 및 체크 후 각 상황에 따라 다른 이펙트
   - 일반적인 빙고인 경우
