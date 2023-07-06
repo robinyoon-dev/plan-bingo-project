@@ -14,7 +14,7 @@
 > 사이트: https://planbingo.vercel.app/
 
 > 업데이트 노트:
-https://emphasized-dibble-f24.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682ff117c4c84f699b6445c0f889f446
+https://robinyoondev.notion.site/63f4292fae454fbeb98fe83c695d9c01?v=682ff117c4c84f699b6445c0f889f446&pvs=4
 
 ## 개발 정보 
 - 제작 기간: 2023.01.19 ~ 2023.03.12
